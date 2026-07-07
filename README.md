@@ -50,8 +50,6 @@ Abra o terminal do seu computador e execute o comando abaixo para clonar o proje
 ```bash
 git clone [https://github.com/ThalesScarabelli96/Projeto-Titanic](https://github.com/ThalesScarabelli96/Projeto-Titanic)
 
-```
-
 ### 2. Instale as dependências necessárias no terminal do VS Code:
 (Obrigatório caso você ou outro usuário ainda não possua as bibliotecas instaladas na máquina)
 
