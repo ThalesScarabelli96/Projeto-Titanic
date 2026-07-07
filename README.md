@@ -38,7 +38,6 @@ Após processar e analisar os dados (incluindo o tratamento de idades ausentes p
 ---
 
 
-
 # 🚀 Como Executar e Configurar o Projeto
 
 Seja para configurar o seu próprio ambiente local ou para testar o código em outra máquina, siga o passo a passo abaixo para garantir o funcionamento correto:
@@ -49,7 +48,6 @@ Abra o terminal do seu computador e execute o comando abaixo para clonar o proje
 
 ```bash
 git clone https://github.com/ThalesScarabelli96/Projeto-Titanic
-
 ```
 
 ### 2. Instale as dependências necessárias no terminal do VS Code:
@@ -71,4 +69,4 @@ Navegue até a pasta notebooks/, abra o arquivo Projeto_Titanic.ipynb no VS Code
 
 ### ✒️ Autor
 
-Thales Scarabelli - @ThalesScarabelli96
+Thales Scarabelli - @ThalesScarabelli96#
