@@ -39,7 +39,7 @@ Após processar e analisar os dados (incluindo o tratamento de idades ausentes p
 
 
 
-🚀 Como Executar e Configurar o Projeto
+# 🚀 Como Executar e Configurar o Projeto
 
 Seja para configurar o seu próprio ambiente local ou para testar o código em outra máquina, siga o passo a passo abaixo para garantir o funcionamento correto:
 
@@ -48,17 +48,22 @@ Seja para configurar o seu próprio ambiente local ou para testar o código em o
 Abra o terminal do seu computador e execute o comando abaixo para clonar o projeto:
 
 ```bash
-git clone [https://github.com/ThalesScarabelli96/Projeto-Titanic](https://github.com/ThalesScarabelli96/Projeto-Titanic)
+git clone https://github.com/ThalesScarabelli96/Projeto-Titanic
+
+```
 
 ### 2. Instale as dependências necessárias no terminal do VS Code:
 (Obrigatório caso você ou outro usuário ainda não possua as bibliotecas instaladas na máquina)
 
+```bash
 pip install pandas seaborn matplotlib jupyter
-
+```
 
 💻 Nota para Windows: Se o comando pip apresentar erros, utilize:
 
+```bash
 python -m pip install pandas seaborn matplotlib jupyter
+```
 
 
 ### 3. Abra e execute o Notebook:
